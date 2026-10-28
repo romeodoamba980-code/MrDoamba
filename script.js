@@ -8,7 +8,7 @@ const PROJECTS = [
   {
     title: "Projet personnel",
     category: "Branding",
-    image: "https://i.ibb.co/8Ldt2wKP/Whats-App-Image-2025-10-29-at-12-35-48-30d4f2db.jpg"
+    image: "images/realisations/projet-personnel.jpg"
   },
   {
     title: "Brochure EcoVigi Consulting",
@@ -34,17 +34,17 @@ const PROJECTS = [
   {
     title: "Affiche promotionnelle",
     category: "Affiches",
-    image: "https://i.ibb.co/1tX4ZGCY/RD-N-1.jpg"
+    image: "images/realisations/affiche-promotionnelle.jpg"
   },
   {
     title: "Assiyah Délice",
     category: "Affiches",
-    image: "https://i.ibb.co/nqj6GKTP/assiyah-delice-1-AA.jpg"
+    image: "images/realisations/assiyah-delice.jpg"
   },
   {
     title: "Campagne email",
     category: "Email",
-    image: "https://i.ibb.co/fVmd60wG/EM.jpg"
+    image: "images/realisations/campagne-email.jpg"
   }
 ];
 
